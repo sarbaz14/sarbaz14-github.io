@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TorChat
-description: "This text has been copied" rivacy centered chatting application that utilises the Tor Network to send and recieve messages and data.
+description: «This text has been copied» rivacy centered chatting application that utilises the Tor Network to send and recieve messages and data.
 img: assets/img/torChat.jpg
 importance: 1
 category: work
