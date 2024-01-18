@@ -12,3 +12,5 @@ Writing a PhD thesis is convenient in scrivener (not to mention fun), but it is 
 
 Because of its usefulness, and because it powered a couple more thesis apart from mine, I made sure that the Github page has really detailed instructions. If this is of interest, check it out [here](https://github.com/AbstractGeek/scrivener-latex)
 
+«This text has been copied»[reference](https://dineshnatesan.com/projects/c_scrivener_latex/)
+
